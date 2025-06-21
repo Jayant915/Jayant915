@@ -1,10 +1,15 @@
-<h1 align="center">Hi 👋, I'm Jayant Kishore</h1>
+<h1 align="center">Jayant Kishore</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF0000&center=true&vCenter=true&width=490&lines=A+passionate+ML+developer" alt="Line 1" /><br>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF0000&center=true&vCenter=true&width=490&lines=from+India!&startRepeating=2000" alt="Line 2" /><br>
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF0000&center=true&vCenter=true&width=490&lines=Actively+seeking+collaborations&startRepeating=4000" alt="Line 3" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF0000&center=true&vCenter=true&width=490&lines=I+am+a+passionate+developer+from+India!" alt="Line 1" /><br>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF0000&center=true&vCenter=true&width=490&lines=Currently+pursuing+my+Btech+in+CSE+from&startRepeating=2000" alt="Line 2" /><br>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF0000&center=true&vCenter=true&width=490&lines=Sarala+Birla+University&startRepeating=4000" alt="Line 3" />
 </p>
----
+
+<br>
+<p align="center">
+    <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXl6MW9xNjZqMmg4MGlkdzdmZXR3b2Jobmk3b3VncXlheWJwcDYwayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HCevnBRJE6Z6n2VqlG/giphy.gif" alt="Thinking GIF" height=250 width="550" />
+
+  </p>
 
 ### 🌐 About Me
 
@@ -15,9 +20,15 @@
 - 📫 How to reach me: **jayantkishore9155@gmail.com** 📧
 - ⚡ Fun fact: When I'm not coding, you can find me strategizing over a game of **chess**! ♟️
 
+<br>
+<p align="center">
+ <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExazMyaWZ5aTN2ZzRzejY3Zml0cXl2bng0MnUwNW1rMm9mdHNjcXVrbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6OrCT1jVbonHG/giphy.gif" alt="Thinking GIF" width="350" />
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdndlbXcwZXZidXRsaHdiYW9peWp1YnZxb3Jtamtmc2VydHpydjdpNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xTiTnx37nc3vjsdeLK/giphy.gif" alt="Coding GIF" width="350" />
+</p>
+
 ---
 
-### 🚀 My GitHub Stats
+### 🚀 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=jayant915&show_icons=true&locale=en&theme=nord" alt="jayant915 GitHub Stats" />
@@ -29,16 +40,14 @@
 ### 🛠️ Languages and Tools
 
 I enjoy building with:
-
 <p align="left">
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> </a>
   <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="PyTorch" width="40" height="40"/> </a>
   <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="40" height="40"/> </a>
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/> </a>
-  <a href="https://numpy.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.rawgit.com/devicons/devicon/11c2106eb12cb6961476b77e38a2e0a2948c2691/icons/numpy/numpy-original.svg" alt="NumPy" width="40" height="40"/> </a>
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="40" height="40"/> </a>
-  <a href="https://matplotlib.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib" width="40" height="40"/> </a>
-  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_static/logo-lightbg.svg" alt="Seaborn" width="40" height="40"/> </a>
+  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/> </a>
+  <a href="https://numpy.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" alt="NumPy" width="40" height="40"/> </a>
+  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" alt="Scikit-learn" width="40" height="40"/> </a>
+  <a href="https://matplotlib.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib" width="40" height="40"/> </a>
 
   <br>
 
@@ -64,7 +73,6 @@ I enjoy building with:
   <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/> </a>
   <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="Kotlin" width="40" height="40"/> </a>
 </p>
-
 ---
 
 ### 📊 My Projects
@@ -80,7 +88,7 @@ Here are some projects I'm proud of:
 ### 🤝 Connect with Me
 
 <p align="left">
-  <a href="https://linkedin.com/in/your-linkedin-profile" target="_blank" rel="noreferrer">
+  <a href="https://www.linkedin.com/in/jayant-kishore-595a84326/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:jayantkishore9155@gmail.com" target="_blank" rel="noreferrer">
