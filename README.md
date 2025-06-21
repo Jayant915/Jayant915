@@ -71,9 +71,9 @@ I enjoy building with:
 
 Here are some projects I'm proud of:
 
-- 🚀 **[Project Name 1]**: A brief, engaging description of what this project does and what technologies it uses. (e.g., "Developed a sentiment analysis model using PyTorch for real-time Twitter data.")
-- ✨ **[Project Name 2]**: Another concise description, highlighting key features or challenges overcome. (e.g., "Built a recommendation system for e-commerce, improving user engagement by X%.")
-- 📈 **[Project Name 3]**: Explain its purpose and your role. (e.g., "Explored public datasets to uncover trends in [domain] using Pandas and Matplotlib.")
+- 🚀  **InkWise: Smart Handwriting Recognition (Tessaract, OCR, CNN, Deep Learning):** Developed a smart application leveraging OCR and CNN models to extract text from images and convert handwritten text into digital formats. Utilized Django for the web interface and integrated PyTesseract and TensorFlow for image processing and handwriting recognition. Tech: Django, PyTesseract, TensorFlow, CNN, Python. 
+- ✨ **NeuroSpec: Manufacturing Defect Detection System (CNN, Quality Control, Computer Vision):**  Developed an image-based system to automatically detect manufacturing defects. Implemented convolutional neural networks (CNNs) to identify anomalies in product images, significantly improving quality control and reducing manual inspection time. Tech: Python, TensorFlow, PyTorch, Computer Vision, Deep Learning. 
+- 📈 **Heart  Care  System  (Web Development, Machine  Learning,  Healthcare):**  Developed a web-based system using Django, MongoDB, and JavaScript to predict potential heart conditions. Implemented a neural network model to analyze patient data and provide risk assessments. Tech: Django, MongoDB, JavaScript, Neural Networks (e.g., TensorFlow, Keras), Python, HTML, CSS. 
 
 ---
 
