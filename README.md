@@ -1,11 +1,9 @@
-<h1 align="center">Jayant Kishore</h1>
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF0000&center=true&vCenter=true&width=490&lines=I+am+a+passionate+developer+from+India!" alt="Line 1" /><br>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF0000&center=true&vCenter=true&width=490&lines=Currently+pursuing+my+Btech+in+CSE+from&startRepeating=2000" alt="Line 2" /><br>
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF0000&center=true&vCenter=true&width=490&lines=Sarala+Birla+University&startRepeating=4000" alt="Line 3" />
-</p>
+<h1 align="center">Hello...This is Jayant Kishore</h1>
 
 <br>
+<p align="center">
+    <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2owN3hmZ2s3eTl4Z21nZDNwaTBtMDIwdnk2bDAwYnVleHI5cWFubCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HeCoPCBcvMrfzIT4aj/giphy.gif" alt="Thinking GIF" height=250 width="850" />
+  </p>
 <p align="center">
     <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXl6MW9xNjZqMmg4MGlkdzdmZXR3b2Jobmk3b3VncXlheWJwcDYwayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HCevnBRJE6Z6n2VqlG/giphy.gif" alt="Thinking GIF" height=250 width="550" />
 
