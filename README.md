@@ -29,7 +29,6 @@
 ### 🚀 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jayant915&show_icons=true&locale=en&theme=nord" alt="jayant915 GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jayant915&show_icons=true&locale=en&layout=compact&theme=nord" alt="jayant915 Top Languages" />
 </p>
 
