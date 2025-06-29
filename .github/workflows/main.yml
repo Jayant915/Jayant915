@@ -1,0 +1,55 @@
+name: GitHub Metrics
+
+on:
+  # Schedule daily updates at midnight UTC
+  schedule:
+    - cron: "0 0 * * *" # Runs daily at 00:00 UTC
+  # Allow manual triggering from the GitHub Actions tab
+  workflow_dispatch: # This allows you to run the action manually from the 'Actions' tab
+
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: lowlighter/metrics@latest # Uses the latest version of the metrics action
+        with:
+          # Your GitHub username
+          user: Jayant-Kishore # <--- IMPORTANT: Ensure this is your exact GitHub username!
+
+          # GITHUB_TOKEN is automatically provided by GitHub Actions
+          # It has permissions to read private repos within your account
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+          # Output file for the main stats card
+          # This will create/update 'metrics.svg' in the root of your default branch
+          output_branch: main # <--- IMPORTANT: Use 'main' if your default branch is 'main', otherwise 'master'
+          output_path: metrics.svg # Name of the generated SVG file
+
+          # Basic configuration for what to display
+          base: header, activity, community, repositories, metadata
+          
+          # Plugin for the contribution calendar
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year # Show a full year of contributions
+          
+          # Plugin for traffic (includes commits and other insights)
+          plugin_traffic: yes
+          plugin_traffic_recent_days: 14 # Data from the last 14 days
+          plugin_traffic_type: commits, views, clones # Show commits, views, and clones
+          
+          # Plugin for achievements/trophies
+          plugin_achievements: yes
+          plugin_achievements_threshold: C # You can adjust this (A, B, C, D, S, X for difficulty)
+          plugin_achievements_secrets: yes # Required to scan for specific achievement secrets (e.g., specific badges)
+          
+          # Timezone configuration for accurate daily activity
+          config_timezone: Asia/Kolkata # <--- IMPORTANT: Replace with your exact timezone if different
+
+          # Order of the sections in the generated image
+          config_order: base.header, isocalendar, traffic, achievements, repositories, base.activity, base.community, base.metadata
+
+          # Optional: You can add more plugins here, for example:
+          # plugin_languages: yes
+          # plugin_languages_ignored: javascript, html, css # Languages to exclude from 'top languages'
+          # plugin_languages_limit: 8 # Max number of languages to show
+          # plugin_languages_sections: most-used, recently-used # Sections to include
