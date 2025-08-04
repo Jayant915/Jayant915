@@ -15,7 +15,7 @@
 - 🌱 I’m currently diving deeper into **Data Science and Advanced Machine Learning concepts**, with a keen interest in practical applications.
 - 🤝 I’m actively looking to collaborate on **Cloud-Native Machine Learning projects** and innovative AI solutions.
 - 💡 My expertise spans **Model Development, Data Preprocessing, and Deployment Strategies**.
-- 📫 How to reach me: **jayantkishore9155@gmail.com** 📧
+- 📫 You ca reach me through **jayantkishore9155@gmail.com** 📧
 - ⚡ Fun fact: When I'm not coding, you can find me strategizing over a game of **chess**! ♟️
 
 <br>
